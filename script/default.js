@@ -1,0 +1,9 @@
+module.exports.tables=[
+    'User',
+    "AccessToken",
+    'ACL',
+    'RoleMapping',
+    'Role',
+    'sensor',
+    'sensor2'
+]
